@@ -1,0 +1,301 @@
+flow_id,app_label,tokens,timestamp
+0,Angry Birds,angrybirds level_id u_audio,49
+1,Angry Birds,u_audio rovio level_id,14
+2,TikTok,tiktok bytecdn device_id data,97
+3,Angry Birds,level_id rovio json,11
+4,YouTube,stream video_id youtube,57
+5,Facebook,facebook graph access_token fbcdn json,14
+6,Facebook,facebook fbcdn json,60
+7,TikTok,video device_id tiktok,88
+8,TikTok,video bytecdn device_id,33
+9,Instagram,sessionid cdninstagram media_id,12
+10,Instagram,instagram media_id cdninstagram,10
+11,Facebook,access_token fbcdn facebook,27
+12,Instagram,cdninstagram sessionid media_id,2
+13,YouTube,youtube stream video_id googlevideo,55
+14,YouTube,stream youtube,23
+15,Instagram,sessionid cdninstagram instagram media_id,9
+16,TikTok,bytecdn video tiktok device_id,92
+17,Facebook,facebook access_token graph fbcdn,8
+18,Facebook,facebook graph,49
+19,YouTube,video_id googlevideo,2
+20,Angry Birds,angrybirds level_id u_audio rovio,67
+21,Instagram,instagram cdninstagram sessionid,9
+22,Facebook,facebook graph,87
+23,Angry Birds,rovio angrybirds level_id u_audio,48
+24,YouTube,googlevideo stream,52
+25,Facebook,facebook graph access_token fbcdn,15
+26,YouTube,googlevideo youtube,37
+27,Angry Birds,rovio level_id u_audio,76
+28,YouTube,youtube googlevideo stream video_id,35
+29,YouTube,youtube stream video_id googlevideo,91
+30,Angry Birds,level_id rovio,97
+31,YouTube,video_id googlevideo stream,82
+32,TikTok,bytecdn tiktok device_id video data,82
+33,YouTube,video_id googlevideo stream youtube,74
+34,TikTok,video bytecdn tiktok,11
+35,TikTok,bytecdn tiktok video device_id,71
+36,Facebook,facebook fbcdn graph cdn,24
+37,Angry Birds,angrybirds u_audio,92
+38,YouTube,stream youtube,51
+39,Facebook,facebook graph json,82
+40,Facebook,access_token fbcdn facebook,73
+41,Instagram,media_id instagram,33
+42,TikTok,video tiktok bytecdn cdn,21
+43,YouTube,youtube video_id stream api,85
+44,Angry Birds,u_audio rovio,69
+45,Facebook,graph fbcdn,15
+46,Instagram,sessionid media_id instagram json,34
+47,YouTube,youtube video_id googlevideo,11
+48,Facebook,graph access_token facebook cdn,40
+49,TikTok,bytecdn device_id video tiktok,54
+50,Instagram,cdninstagram media_id sessionid instagram,88
+51,Angry Birds,rovio angrybirds level_id,48
+52,Instagram,sessionid instagram data,35
+53,Instagram,instagram media_id,73
+54,Instagram,sessionid media_id,41
+55,TikTok,tiktok device_id,11
+56,YouTube,stream googlevideo data,49
+57,YouTube,stream youtube googlevideo video_id,64
+58,Instagram,instagram media_id config,28
+59,Angry Birds,level_id u_audio angrybirds,56
+60,TikTok,bytecdn video,76
+61,TikTok,tiktok video,41
+62,Angry Birds,angrybirds level_id,34
+63,Angry Birds,rovio angrybirds,53
+64,Facebook,fbcdn graph,66
+65,Angry Birds,level_id rovio,11
+66,TikTok,device_id bytecdn video tiktok,69
+67,TikTok,bytecdn tiktok video,26
+68,YouTube,stream video_id youtube,78
+69,Facebook,graph facebook data,77
+70,Angry Birds,u_audio angrybirds rovio json,29
+71,Instagram,media_id cdninstagram instagram sessionid,22
+72,TikTok,bytecdn device_id tiktok,3
+73,Instagram,media_id sessionid instagram cdninstagram cdn,89
+74,Angry Birds,level_id rovio u_audio,86
+75,Angry Birds,rovio angrybirds u_audio,83
+76,Angry Birds,angrybirds rovio u_audio api,46
+77,Angry Birds,angrybirds level_id rovio u_audio data,29
+78,YouTube,youtube googlevideo stream video_id,41
+79,Instagram,sessionid cdninstagram,44
+80,Instagram,cdninstagram sessionid json,42
+81,Instagram,cdninstagram instagram sessionid,98
+82,Facebook,access_token graph,47
+83,Facebook,fbcdn facebook graph access_token,29
+84,TikTok,device_id bytecdn,23
+85,YouTube,video_id googlevideo youtube stream,48
+86,Facebook,facebook access_token fbcdn,71
+87,TikTok,device_id tiktok bytecdn,11
+88,Instagram,sessionid instagram media_id,72
+89,YouTube,googlevideo video_id youtube stream,68
+90,Facebook,fbcdn access_token config,40
+91,Instagram,media_id cdninstagram sessionid data,16
+92,Instagram,media_id sessionid,42
+93,TikTok,bytecdn tiktok device_id video,68
+94,Angry Birds,u_audio level_id angrybirds rovio api,29
+95,Facebook,fbcdn access_token graph,64
+96,Instagram,sessionid instagram,66
+97,YouTube,youtube googlevideo stream,87
+98,YouTube,googlevideo stream,44
+99,YouTube,youtube stream video_id cdn,66
+100,TikTok,bytecdn video,96
+101,TikTok,video device_id,59
+102,YouTube,googlevideo youtube,89
+103,YouTube,googlevideo youtube video_id stream,18
+104,Instagram,instagram sessionid media_id cdninstagram,69
+105,Facebook,facebook graph access_token,96
+106,Instagram,media_id sessionid instagram cdninstagram,7
+107,Angry Birds,rovio level_id angrybirds,11
+108,Instagram,media_id cdninstagram sessionid,89
+109,Facebook,access_token graph facebook fbcdn,15
+110,YouTube,googlevideo video_id stream youtube,84
+111,Instagram,cdninstagram instagram sessionid media_id,73
+112,Angry Birds,level_id rovio u_audio angrybirds config,15
+113,TikTok,video bytecdn device_id tiktok config,63
+114,TikTok,device_id bytecdn tiktok video,15
+115,Facebook,fbcdn access_token graph facebook,3
+116,Angry Birds,rovio level_id angrybirds,65
+117,Angry Birds,u_audio level_id rovio angrybirds,34
+118,Angry Birds,rovio u_audio level_id,88
+119,Facebook,fbcdn facebook access_token graph,97
+120,TikTok,bytecdn device_id tiktok video data,31
+121,Angry Birds,rovio u_audio angrybirds level_id,62
+122,Facebook,graph access_token cdn,97
+123,TikTok,video device_id,35
+124,Angry Birds,level_id rovio angrybirds config,82
+125,TikTok,video tiktok bytecdn device_id config,42
+126,TikTok,video device_id bytecdn tiktok cdn,9
+127,Instagram,instagram media_id config,83
+128,Facebook,access_token fbcdn,4
+129,TikTok,tiktok bytecdn video device_id config,9
+130,Instagram,instagram sessionid media_id cdninstagram config,99
+131,YouTube,video_id googlevideo youtube config,21
+132,TikTok,video device_id tiktok bytecdn config,68
+133,Facebook,fbcdn facebook graph access_token,48
+134,Facebook,facebook fbcdn access_token graph cdn,11
+135,Instagram,sessionid instagram cdninstagram,60
+136,Instagram,media_id cdninstagram,11
+137,TikTok,video bytecdn tiktok device_id,77
+138,TikTok,tiktok bytecdn video,46
+139,Instagram,sessionid cdninstagram instagram,89
+140,YouTube,youtube video_id googlevideo config,82
+141,Angry Birds,u_audio rovio angrybirds config,37
+142,TikTok,device_id bytecdn tiktok video,47
+143,TikTok,video tiktok bytecdn device_id,22
+144,Instagram,cdninstagram sessionid instagram media_id api,73
+145,Facebook,graph facebook,17
+146,Angry Birds,rovio level_id angrybirds,34
+147,Facebook,fbcdn graph access_token,56
+148,Instagram,cdninstagram sessionid config,30
+149,Instagram,cdninstagram media_id sessionid,22
+150,TikTok,bytecdn tiktok device_id json,91
+151,TikTok,tiktok video config,85
+152,Angry Birds,angrybirds rovio,53
+153,Angry Birds,angrybirds level_id,62
+154,Instagram,instagram media_id cdninstagram sessionid,77
+155,Instagram,cdninstagram media_id sessionid,56
+156,Instagram,media_id sessionid cdninstagram instagram,10
+157,TikTok,device_id bytecdn video,91
+158,TikTok,bytecdn device_id video tiktok,93
+159,TikTok,video tiktok bytecdn device_id,78
+160,Angry Birds,level_id angrybirds u_audio rovio,92
+161,TikTok,bytecdn tiktok device_id,66
+162,Instagram,instagram sessionid cdn,4
+163,Angry Birds,angrybirds rovio u_audio level_id config,62
+164,YouTube,googlevideo video_id youtube stream,50
+165,YouTube,stream youtube video_id googlevideo,15
+166,Angry Birds,angrybirds level_id u_audio json,98
+167,Angry Birds,u_audio level_id angrybirds,66
+168,YouTube,video_id googlevideo youtube,11
+169,Angry Birds,angrybirds level_id,13
+170,Facebook,facebook fbcdn cdn,86
+171,Instagram,sessionid media_id cdninstagram instagram,39
+172,Instagram,instagram sessionid cdninstagram media_id,96
+173,Instagram,media_id cdninstagram api,60
+174,YouTube,googlevideo video_id,9
+175,YouTube,video_id stream json,94
+176,Angry Birds,angrybirds rovio u_audio level_id,13
+177,TikTok,video tiktok bytecdn data,3
+178,TikTok,video tiktok bytecdn device_id,17
+179,Angry Birds,angrybirds u_audio data,81
+180,Angry Birds,angrybirds rovio level_id json,8
+181,TikTok,video device_id tiktok bytecdn,38
+182,YouTube,googlevideo video_id youtube stream,56
+183,Facebook,fbcdn graph access_token facebook config,92
+184,Angry Birds,u_audio angrybirds rovio,39
+185,YouTube,youtube video_id,90
+186,TikTok,tiktok video device_id bytecdn json,43
+187,Instagram,sessionid cdninstagram json,32
+188,YouTube,googlevideo youtube video_id stream,100
+189,Instagram,media_id cdninstagram sessionid,28
+190,Facebook,facebook graph,74
+191,TikTok,device_id video bytecdn tiktok json,94
+192,YouTube,video_id youtube stream googlevideo api,41
+193,TikTok,video tiktok,66
+194,YouTube,googlevideo stream,27
+195,YouTube,youtube stream googlevideo video_id json,94
+196,TikTok,device_id video tiktok bytecdn config,37
+197,YouTube,video_id googlevideo,85
+198,Angry Birds,level_id rovio angrybirds u_audio api,5
+199,TikTok,video bytecdn device_id tiktok cdn,31
+200,Facebook,access_token graph,8
+201,Instagram,instagram sessionid,89
+202,YouTube,youtube stream googlevideo video_id,69
+203,Angry Birds,u_audio rovio level_id angrybirds,75
+204,TikTok,tiktok device_id bytecdn,56
+205,Instagram,instagram cdninstagram api,77
+206,Facebook,facebook fbcdn graph access_token,22
+207,Facebook,access_token graph data,77
+208,Angry Birds,rovio angrybirds u_audio level_id json,20
+209,YouTube,youtube stream,100
+210,YouTube,youtube stream video_id googlevideo json,41
+211,Angry Birds,angrybirds rovio u_audio level_id,83
+212,Instagram,sessionid instagram cdninstagram,37
+213,Instagram,instagram sessionid,71
+214,Instagram,cdninstagram instagram media_id,49
+215,Facebook,facebook fbcdn cdn,33
+216,Angry Birds,u_audio angrybirds,84
+217,YouTube,youtube googlevideo video_id,89
+218,Angry Birds,level_id angrybirds,3
+219,YouTube,stream googlevideo,33
+220,Instagram,instagram cdninstagram media_id sessionid,89
+221,Facebook,graph facebook,30
+222,TikTok,tiktok device_id video config,83
+223,TikTok,device_id bytecdn video config,89
+224,Instagram,instagram media_id api,72
+225,TikTok,tiktok bytecdn,18
+226,Facebook,facebook graph access_token,2
+227,Angry Birds,u_audio rovio,81
+228,YouTube,video_id stream googlevideo,25
+229,Angry Birds,level_id u_audio rovio,91
+230,Angry Birds,rovio angrybirds level_id,37
+231,Instagram,cdninstagram sessionid media_id,86
+232,Facebook,access_token fbcdn facebook,89
+233,TikTok,tiktok device_id bytecdn video,6
+234,TikTok,tiktok bytecdn,25
+235,Facebook,fbcdn graph access_token facebook,64
+236,Angry Birds,rovio level_id,19
+237,TikTok,video bytecdn device_id config,41
+238,YouTube,youtube googlevideo stream video_id,20
+239,Facebook,fbcdn access_token facebook graph,90
+240,Angry Birds,angrybirds u_audio level_id rovio,23
+241,Instagram,media_id instagram sessionid,1
+242,Facebook,fbcdn graph access_token facebook json,33
+243,YouTube,stream video_id,42
+244,Instagram,cdninstagram instagram media_id sessionid,94
+245,Instagram,sessionid cdninstagram media_id instagram,62
+246,TikTok,bytecdn device_id tiktok,18
+247,Instagram,instagram media_id sessionid cdninstagram config,64
+248,Facebook,graph fbcdn,58
+249,Instagram,cdninstagram instagram,95
+250,Facebook,graph fbcdn,47
+251,Angry Birds,u_audio rovio config,84
+252,YouTube,stream video_id,60
+253,TikTok,bytecdn tiktok,99
+254,Instagram,sessionid cdninstagram instagram media_id,62
+255,TikTok,video tiktok,37
+256,Angry Birds,angrybirds u_audio,91
+257,Facebook,fbcdn access_token cdn,91
+258,Facebook,facebook fbcdn access_token data,19
+259,YouTube,googlevideo video_id,26
+260,Instagram,cdninstagram sessionid media_id instagram api,55
+261,YouTube,googlevideo video_id stream youtube,100
+262,TikTok,device_id bytecdn tiktok,1
+263,TikTok,device_id tiktok cdn,77
+264,Facebook,access_token graph,100
+265,YouTube,stream googlevideo video_id youtube,31
+266,TikTok,tiktok bytecdn video device_id json,92
+267,TikTok,bytecdn video device_id tiktok,79
+268,Facebook,access_token facebook fbcdn,23
+269,TikTok,bytecdn tiktok device_id data,62
+270,Instagram,sessionid cdninstagram media_id,99
+271,Angry Birds,level_id rovio angrybirds,83
+272,TikTok,bytecdn device_id tiktok,24
+273,YouTube,stream googlevideo,18
+274,YouTube,youtube stream,20
+275,Angry Birds,rovio level_id u_audio angrybirds api,13
+276,Angry Birds,level_id u_audio rovio,94
+277,Angry Birds,rovio angrybirds,59
+278,Angry Birds,rovio level_id angrybirds u_audio config,79
+279,Facebook,fbcdn facebook access_token,42
+280,YouTube,stream youtube googlevideo,67
+281,Instagram,instagram cdninstagram sessionid,72
+282,Facebook,fbcdn facebook json,58
+283,Instagram,cdninstagram media_id sessionid,89
+284,YouTube,googlevideo stream data,57
+285,TikTok,bytecdn device_id api,19
+286,Facebook,facebook graph fbcdn,60
+287,YouTube,youtube googlevideo video_id stream,11
+288,Angry Birds,rovio u_audio level_id angrybirds cdn,25
+289,TikTok,video tiktok device_id data,94
+290,Angry Birds,rovio level_id,73
+291,Facebook,facebook graph access_token,16
+292,Facebook,facebook fbcdn,26
+293,Angry Birds,angrybirds rovio level_id u_audio,53
+294,Facebook,access_token facebook,98
+295,TikTok,device_id bytecdn tiktok video,2
+296,Angry Birds,u_audio rovio level_id json,23
+297,Angry Birds,level_id u_audio cdn,31
+298,Facebook,graph access_token,40
+299,Angry Birds,angrybirds u_audio,34
