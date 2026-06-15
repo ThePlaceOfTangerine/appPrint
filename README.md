@@ -23,8 +23,6 @@ Có thể chạy dự án bằng hai cách:
 1. Chạy bằng Docker.
 2. Chạy trực tiếp bằng môi trường Python local.
 
-Khuyến khích sử dụng Docker để tránh lỗi môi trường.
-
 ---
 
 ## Cách 1: Chạy bằng Docker
